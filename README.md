@@ -9,6 +9,7 @@ Hey 👋! I'm Markus Remplbauer. I have a keen interest in the latest advancemen
 <img alt=".NET" src="media/dotnet.svg" height="30" /> &nbsp;&nbsp;
 <img alt="TypeScript" src="media/typescript.svg" height="30" /> &nbsp;&nbsp;
 <img alt="React" src="media/react.svg" height="30" /> &nbsp;&nbsp;
+<img alt="NextJs" src="media/nextjs.svg" height="30" /> &nbsp;&nbsp;
 <img alt="TailwindCss" src="media/tailwind.svg" height="30" /> &nbsp;&nbsp;
 <img alt="Docker & Docker Compose" src="media/docker.svg" height="30" /> &nbsp;&nbsp;
 <img alt="Kubernetes" src="media/kubernetes.svg" height="30" /> &nbsp;&nbsp;
@@ -17,7 +18,7 @@ Hey 👋! I'm Markus Remplbauer. I have a keen interest in the latest advancemen
 <img alt="PostgreSQL" src="media/postgres.svg" height="30" /> &nbsp;&nbsp;
 <img alt="MongoDB" src="media/mongodb.svg" height="30" /> &nbsp;&nbsp;
 
-**Techniques I have worked with:**
+**Technologies I have worked with:**
 
 <img alt="Go" src="media/go.svg" height="30" /> &nbsp;&nbsp;
 <img alt="Kotlin" src="media/kotlin.svg" height="30" /> &nbsp;&nbsp;
@@ -31,7 +32,6 @@ Hey 👋! I'm Markus Remplbauer. I have a keen interest in the latest advancemen
 <img alt="Jupyter Notebook" src="media/jupyter.svg" height="30" /> &nbsp;&nbsp;
 <img alt="Android" src="media/android.svg" height="30" /> &nbsp;&nbsp;
 <img alt="Keycloak" src="media/keycloak.svg" height="30" /> &nbsp;&nbsp;
-
 
 <p align="center">
     <a href="https://at.linkedin.com/in/markus-remplbauer-49b14521a" target="_blank">
